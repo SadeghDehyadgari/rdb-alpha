@@ -308,3 +308,4 @@ rmdir images
 ls --color=auto
 mkdir assets/icons
 mkdir client/assets/icons
+mv CodeAlly.svg client/assets/icons
