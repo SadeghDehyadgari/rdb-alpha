@@ -343,3 +343,4 @@ echo for the freeCodeCamp bash lessons >> README.md
 rm READMEmd
 more README.md
 cd ..
+ls --color=auto
