@@ -351,3 +351,4 @@ cp website-boilerplate toms-website -r
 ls --color=auto
 find toms-website
 find website-boilerplate
+clear
