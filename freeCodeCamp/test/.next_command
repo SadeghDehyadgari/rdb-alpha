@@ -165,3 +165,4 @@ ls --color=auto
 rm header.png
 rm footer.jpen
 rm footer.jpeg
+ls --color=auto
