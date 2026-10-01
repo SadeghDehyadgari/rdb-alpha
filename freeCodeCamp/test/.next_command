@@ -342,3 +342,4 @@ echo for the freeCodeCamp bash lessons >> READMEmd
 echo for the freeCodeCamp bash lessons >> README.md
 rm READMEmd
 more README.md
+cd ..
