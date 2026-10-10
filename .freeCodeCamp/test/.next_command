@@ -9,3 +9,5 @@ clear
 help
 help type
 type echo
+__vsc_prompt_cmd_original
+type read
