@@ -12,3 +12,4 @@ type echo
 __vsc_prompt_cmd_original
 type read
 type if
+type then
